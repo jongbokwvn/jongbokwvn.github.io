@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: left
-  image: baby_profile.jpeg
+  image: profile_zibri.png
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
