@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: left
-  image: profile.jpg
+  image: baby_profile.jpeg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
@@ -24,7 +24,7 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 5 # leave blank to include all the blog posts
+  limit: 3 # leave blank to include all the blog posts
 ---
 
 My research interests are in the area of NLP, AI Ethics, and computational social science. My
@@ -33,6 +33,7 @@ research goal is to explore and advance methods for **personalized language mode
 enable effective personalization of language models by aligning them with individual user
 preferences, for making technologies both more effective and equitable.
 
-(1) **Adaptable and Personalized NLP System** for Individual and Groups
-(2) **Preference Optimization** for Controllable Language Generation
+My specific research goal is:<br>
+(1) **Adaptable and Personalized NLP System** for Individual and Groups<br>
+(2) **Preference Optimization** for Controllable Language Generation<br>
 (3) **Safety Alignment** Methods for Trustworthy AI
