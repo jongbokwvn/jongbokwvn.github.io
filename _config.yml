@@ -55,7 +55,7 @@ posts_in_search: true
 bib_search: true
 
 # Dimensions
-max_width: 930px
+max_width: 950px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -630,8 +630,8 @@ jekyll_get_json:
     json: assets/json/resume.json # it can also be an url
 
 jsonresume:
-  - education
-  - experience
-  - honors and awards
-  - certificates
-  - languages
+  - Education
+  - Experience
+  - Honors and Awards
+  - Certificates
+  - Languages

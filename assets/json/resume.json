@@ -1,5 +1,5 @@
 {
-  "education": [
+  "Education": [
     {
       "institution": "Hanyang University, Seoul, Korea",
       "location": "Seoul, Korea",
@@ -12,9 +12,9 @@
       ]
     }
   ],
-  "experience": [
+  "Experience": [
     {
-      "name": "Industiral Data Science Lab, Hanyang University, Seoul, Korea",
+      "name": "Industrial Data Science Lab, Hanyang University, Seoul, Korea",
       "position": "Research Assistant",
       "startDate": "2024-07",
       "endDate": "Present"
@@ -26,7 +26,7 @@
       "endDate": "2023-06"
     }
   ],
-  "honors and awards": [
+  "Honors and Awards": [
     {
       "title": "Best Paper Award",
       "date": "2024-11",
@@ -39,7 +39,7 @@
       "awarder": "OK Bae & Jung Scholarship Foundation"
     }
   ],
-  "certificates": [
+  "Certificates": [
     {
       "name": "NVIDIA AI Academy",
       "date": "2024-06",
@@ -117,7 +117,7 @@
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
-  "languages": [
+  "Languages": [
     {
       "language": "Korean",
       "fluency": "Native speaker",
