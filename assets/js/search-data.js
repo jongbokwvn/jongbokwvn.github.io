@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-the-first-law-of-complexodynamics",
+        
+          title: "The First Law of Complexodynamics",
+        
+        description: "About the complexity and entropy of the model based on Kolmogorov Complexity",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/distill/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
