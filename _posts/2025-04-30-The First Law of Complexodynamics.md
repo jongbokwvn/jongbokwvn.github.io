@@ -1,11 +1,10 @@
 ---
-layout: distill # distill layout: 학술 논문 스타일의 블로그 포스트 레이아웃 (post, page layout 등이 있음)
+layout: distill
 title: The First Law of Complexodynamics
 description: About the complexity and entropy of the model based on Kolmogorov Complexity
 tags: distill formatting
 giscus_comments: true
 date: 2025-04-30 17:36:00
-featured: true
 mermaid:
   enabled: true
   zoomable: true
@@ -40,8 +39,9 @@ toc:
     #   - name: Example Child Subsection 2
   - name: Questions & Answers
   - name: Abstract
-        - name: Main Question
-        - name: Main Answer
+    subsections:
+      - name: Main Question
+      - name: Main Answer
   - name: Content
   - name: Insight
 
