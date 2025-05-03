@@ -37,11 +37,22 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-review-the-first-law-of-complexodynamics",
+        },{id: "post-review-training-language-models-to-follow-instructions-with-human-feedback",
+        
+          title: "[review] Training Language Models to Follow Instructions with Human Feedback",
+        
+        description: "Fine-tune the language model with PPO algorithm using human feedback.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/distill/";
+          
+        },
+      },{id: "post-review-the-first-law-of-complexodynamics",
         
           title: "[review] The First Law of Complexodynamics",
         
-        description: "About the complexity and entropy of the model based on Kolmogorov Complexity",
+        description: "About the complexity and entropy of the model based on Kolmogorov Complexity.",
         section: "Posts",
         handler: () => {
           
@@ -101,7 +112,7 @@ ninja.data = [{
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/jongbokwvn", "_blank");
+          window.open("https://github.com/wvnvwn", "_blank");
         },
       },{
         id: 'social-linkedin',
