@@ -1,11 +1,11 @@
 github_users:
   - torvalds
   - alshedivat
-  - jongbokwvn
+  - wvnvwn
 
 repo_description_lines_max: 2
 
 github_repos:
-  - jongbokwvn/ainow
-  - jongbokwvn/poli-spectrum
-  - jongbokwvn/compred_implement
+  - wvnvw/ainow
+  - wvnvw/poli-spectrum
+  - wvnvw/compred_implement
